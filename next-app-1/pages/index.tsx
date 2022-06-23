@@ -13,7 +13,12 @@ const Home: NextPage<{ characters: Character[] }> = ({ characters }) => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       {characters.map((character) => {
-        return <li key={character.id}>{character.name}</li>;
+        return (
+          <div key={character.id}>
+            {character.name}
+            <Image src={character.image} alt={character.name} width="200" height="200"></Image>
+          </div>
+        );
       })}
       {/* {JSON.stringify(characters)} */}
     </div>
