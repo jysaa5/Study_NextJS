@@ -1,6 +1,7 @@
 import type { GetStaticProps, NextPage } from "next";
 import Head from "next/head";
 import Image from "next/image";
+import imageLoader from "../imageLoader";
 import styles from "../styles/Home.module.css";
 import { Character, GetCharacterResults } from "../types";
 
@@ -16,7 +17,7 @@ const Home: NextPage<{ characters: Character[] }> = ({ characters }) => {
         return (
           <div key={character.id}>
             {character.name}
-            <Image src={character.image} alt={character.name} width="200" height="200"></Image>
+            <Image loader={imageLoader} unoptimized src={character.image} alt={character.name} width="200" height="200"></Image>
           </div>
         );
       })}
