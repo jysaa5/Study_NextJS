@@ -1,6 +1,5 @@
-# Next.js
-
-+ [Study of Next.js](https://violet-lilac.notion.site/Next-js-5c6153ac96bc492caa9fae71cd15833a)
+## :pencil2: Notion
++ [Study Room](https://violet-lilac.notion.site/Next-js-5c6153ac96bc492caa9fae71cd15833a)
 
 
 ### Technology Stack
