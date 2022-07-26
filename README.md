@@ -4,5 +4,7 @@
 ## :computer: Technology Stack
 + [TypeScript](https://www.typescriptlang.org/)
 + [Next.js](https://nextjs.org/)
++ [Recoil](https://recoiljs.org/)
++ [React Query](https://react-query-v3.tanstack.com/)
 + NextRequest
 + NextResponse
