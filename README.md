@@ -4,4 +4,5 @@
 ## :computer: Technology Stack
 + [TypeScript](https://www.typescriptlang.org/)
 + [Next.js](https://nextjs.org/)
-
++ NextRequest
++ NextResponse
