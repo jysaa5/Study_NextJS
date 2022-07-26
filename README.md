@@ -4,4 +4,4 @@
 ## :computer: Technology Stack
 + [TypeScript](https://www.typescriptlang.org/)
 + [Next.js](https://nextjs.org/)
-+ [React-Query](https://react-query.tanstack.com/)
+
