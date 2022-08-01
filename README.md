@@ -8,3 +8,4 @@
 + [React Query](https://react-query-v3.tanstack.com/)
 + NextRequest
 + NextResponse
++ Nginx
