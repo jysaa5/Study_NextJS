@@ -9,3 +9,4 @@
 + NextRequest
 + NextResponse
 + Nginx
++ fetch
