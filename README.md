@@ -8,5 +8,6 @@
 + [React Query](https://react-query-v3.tanstack.com/)
 + NextRequest
 + NextResponse
++ next/router
 + Nginx
 + fetch
