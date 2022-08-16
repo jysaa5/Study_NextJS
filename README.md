@@ -14,7 +14,7 @@
 + [React Query](https://react-query-v3.tanstack.com/)
 + [SWC](https://swc.rs/)
 
-### Ajax
+### Http Client
 + [Axios](https://github.com/axios/axios)
 + [fetch](https://developer.mozilla.org/ko/docs/Web/API/Fetch_API/Using_Fetch)
 
