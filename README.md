@@ -12,6 +12,7 @@
 + [React](https://reactjs.org/)
 + [Recoil](https://recoiljs.org/)
 + [React Query](https://react-query-v3.tanstack.com/)
++ [SWC](https://swc.rs/)
 
 ### Ajax
 + [Axios](https://github.com/axios/axios)
