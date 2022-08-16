@@ -8,8 +8,8 @@
 ### Framework
 + [Next.js](https://nextjs.org/)
 
-
 ### Library
++ [React](https://reactjs.org/)
 + [Recoil](https://recoiljs.org/)
 + [React Query](https://react-query-v3.tanstack.com/)
 
