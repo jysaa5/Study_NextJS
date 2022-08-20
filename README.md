@@ -18,5 +18,6 @@
 + [Axios](https://github.com/axios/axios)
 + [fetch](https://developer.mozilla.org/ko/docs/Web/API/Fetch_API/Using_Fetch)
 
-### Web Server
+### Build / Deploy
+#### Web Server
 + [Nginx](https://www.nginx.com/)
