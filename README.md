@@ -10,9 +10,11 @@
 
 ### Library
 + [React](https://reactjs.org/)
-+ [Recoil](https://recoiljs.org/)
-+ [React Query](https://react-query-v3.tanstack.com/)
-+ [SWC](https://swc.rs/)
++ 상태 관리
+  + [Recoil](https://recoiljs.org/)
++ 데이터 패칭
+  + [React Query](https://react-query-v3.tanstack.com/)
+  + [SWC](https://swc.rs/)
 
 ### Http Client
 + [Axios](https://github.com/axios/axios)
