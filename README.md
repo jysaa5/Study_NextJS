@@ -19,5 +19,5 @@
 + [fetch](https://developer.mozilla.org/ko/docs/Web/API/Fetch_API/Using_Fetch)
 
 ### Build / Deploy
-#### Web Server
-+ [Nginx](https://www.nginx.com/)
++ Web Server
+  + [Nginx](https://www.nginx.com/)
