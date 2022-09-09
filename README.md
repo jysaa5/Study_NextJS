@@ -5,7 +5,7 @@
 ### Langauge
 + [TypeScript](https://www.typescriptlang.org/)
 
-### Environment
+### JavaScript Runtime
 + [Node.js](https://nodejs.org/ko/)
 
 ### Framework
