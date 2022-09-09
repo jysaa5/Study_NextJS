@@ -5,6 +5,9 @@
 ### Langauge
 + [TypeScript](https://www.typescriptlang.org/)
 
+### environment
++ [Node.js](https://nodejs.org/ko/)
+
 ### Framework
 + [Next.js](https://nextjs.org/)
 
