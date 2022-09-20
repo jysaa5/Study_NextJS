@@ -19,7 +19,7 @@
   + [React Query](https://react-query-v3.tanstack.com/)
   + [SWC](https://swc.rs/)
  + UI
-  + [Chakra UI](https://chakra-ui.com/)
+   + [Chakra UI](https://chakra-ui.com/)
 
 ### Http Client
 + [Axios](https://github.com/axios/axios)
