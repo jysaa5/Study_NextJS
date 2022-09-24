@@ -42,6 +42,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["next", "virtual:fc88de40e6144b856f9a3c0c44631ffe35db4e169ec0fe77acf4873226fb531bef7b8670d10fb59b70e1fb6504beef6e67b18af92413c36229b37d0dceb144dd#npm:12.3.1"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:fc88de40e6144b856f9a3c0c44631ffe35db4e169ec0fe77acf4873226fb531bef7b8670d10fb59b70e1fb6504beef6e67b18af92413c36229b37d0dceb144dd#npm:18.2.0"],\
+            ["react-refresh", "npm:0.14.0"],\
             ["typescript", "patch:typescript@npm%3A4.8.3#~builtin<compat/typescript>::version=4.8.3&hash=a1c5e5"]\
           ],\
           "linkType": "SOFT"\
@@ -2144,6 +2145,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["next", "virtual:fc88de40e6144b856f9a3c0c44631ffe35db4e169ec0fe77acf4873226fb531bef7b8670d10fb59b70e1fb6504beef6e67b18af92413c36229b37d0dceb144dd#npm:12.3.1"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:fc88de40e6144b856f9a3c0c44631ffe35db4e169ec0fe77acf4873226fb531bef7b8670d10fb59b70e1fb6504beef6e67b18af92413c36229b37d0dceb144dd#npm:18.2.0"],\
+            ["react-refresh", "npm:0.14.0"],\
             ["typescript", "patch:typescript@npm%3A4.8.3#~builtin<compat/typescript>::version=4.8.3&hash=a1c5e5"]\
           ],\
           "linkType": "SOFT"\
@@ -2444,6 +2446,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/react-is-npm-16.13.1-a9b9382b4f-f7a19ac349.zip/node_modules/react-is/",\
           "packageDependencies": [\
             ["react-is", "npm:16.13.1"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
+      ["react-refresh", [\
+        ["npm:0.14.0", {\
+          "packageLocation": "./.yarn/cache/react-refresh-npm-0.14.0-78ef5eeb73-dc69fa8c99.zip/node_modules/react-refresh/",\
+          "packageDependencies": [\
+            ["react-refresh", "npm:0.14.0"]\
           ],\
           "linkType": "HARD"\
         }]\
