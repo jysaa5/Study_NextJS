@@ -1,19 +1,19 @@
-const nextJest = require("next/jest");
+// eslint-disable-next-line @typescript-eslint/no-var-requires
+const nextJest = require('next/jest');
 
 const createJestConfig = nextJest({
-  dir: "./",
+  dir: './',
 });
 
 const customJestConfig = {
-  setupFilesAfterEnv: ["<rootDir>/jest.setup.js"],
+  setupFilesAfterEnv: ['<rootDir>/jest.setup.js'],
+  moduleDirectories: ['node_modules', '<rootDir>/'],
   moduleNameMapper: {
-    "^@/(.*)$": "<rootDir>/src/$1",
-    "^@components/(.*)$": "<rootDir>/src/components/$1",
-    "^@pages/(.*)$": "<rootDir>/src/pages/$1",
-    "^@styles/(.*)$": "<rootDir>/src/styles/$1",
-    "^@public/(.*)$": "<rootDir>/public/$1",
+    '^@/components/(.*)$': '<rootDir>/components/$1',
+    '^@/pages/(.*)$': '<rootDir>/pages/$1',
   },
-  testEnvironment: "jest-environment-jsdom",
+  testEnvironment: 'jest-environment-jsdom',
+  testPathIgnorePatterns: ['<rootDir>/.next/', '<rootDir>/node_modules/'],
 };
 
 module.exports = createJestConfig(customJestConfig);
