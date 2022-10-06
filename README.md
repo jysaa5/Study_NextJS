@@ -10,7 +10,7 @@
 
 ### Library
 + [React](https://reactjs.org/)
-+ 상태 관리
++ State Management
   + [Recoil](https://recoiljs.org/)
 + 데이터 패칭
   + [React Query](https://react-query-v3.tanstack.com/)
