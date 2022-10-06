@@ -12,7 +12,7 @@
 + [React](https://reactjs.org/)
 + State Management
   + [Recoil](https://recoiljs.org/)
-+ 데이터 패칭
++ Data Fetching
   + [React Query](https://react-query-v3.tanstack.com/)
   + [SWC](https://swc.rs/)
    
