@@ -34,6 +34,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-config-next", "virtual:ca844ad3f4f4dbc6a93c522cc72e374034157e0a48c79e74ff45d1574ccd0fe840a141816869e71dd8720063f62ce82c026bb0ffc75d5d5916de148d5b569ca9#npm:14.1.0"],\
           ["next", "virtual:ca844ad3f4f4dbc6a93c522cc72e374034157e0a48c79e74ff45d1574ccd0fe840a141816869e71dd8720063f62ce82c026bb0ffc75d5d5916de148d5b569ca9#npm:14.1.0"],\
           ["postcss", "npm:8.4.33"],\
+          ["prettier", "npm:3.2.4"],\
           ["react", "npm:18.2.0"],\
           ["react-dom", "virtual:ca844ad3f4f4dbc6a93c522cc72e374034157e0a48c79e74ff45d1574ccd0fe840a141816869e71dd8720063f62ce82c026bb0ffc75d5d5916de148d5b569ca9#npm:18.2.0"],\
           ["tailwindcss", "npm:3.4.1"],\
@@ -3240,6 +3241,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-config-next", "virtual:ca844ad3f4f4dbc6a93c522cc72e374034157e0a48c79e74ff45d1574ccd0fe840a141816869e71dd8720063f62ce82c026bb0ffc75d5d5916de148d5b569ca9#npm:14.1.0"],\
           ["next", "virtual:ca844ad3f4f4dbc6a93c522cc72e374034157e0a48c79e74ff45d1574ccd0fe840a141816869e71dd8720063f62ce82c026bb0ffc75d5d5916de148d5b569ca9#npm:14.1.0"],\
           ["postcss", "npm:8.4.33"],\
+          ["prettier", "npm:3.2.4"],\
           ["react", "npm:18.2.0"],\
           ["react-dom", "virtual:ca844ad3f4f4dbc6a93c522cc72e374034157e0a48c79e74ff45d1574ccd0fe840a141816869e71dd8720063f62ce82c026bb0ffc75d5d5916de148d5b569ca9#npm:18.2.0"],\
           ["tailwindcss", "npm:3.4.1"],\
@@ -3716,6 +3718,15 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../.yarn/berry/cache/prelude-ls-npm-1.2.1-3e4d272a55-10c0.zip/node_modules/prelude-ls/",\
         "packageDependencies": [\
           ["prelude-ls", "npm:1.2.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["prettier", [\
+      ["npm:3.2.4", {\
+        "packageLocation": "./.yarn/unplugged/prettier-npm-3.2.4-3ca24592c3/node_modules/prettier/",\
+        "packageDependencies": [\
+          ["prettier", "npm:3.2.4"]\
         ],\
         "linkType": "HARD"\
       }]\
