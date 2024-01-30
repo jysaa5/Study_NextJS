@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 
 export default function Home() {
   console.log("Executing...");
@@ -49,6 +50,7 @@ export default function Home() {
           <p className={`m-0 max-w-[30ch] text-sm opacity-50 text-balance`}>Instantly deploy your Next.js site to a shareable URL with Vercel.</p>
         </a>
       </div>
+      <Link href="/about">About Us</Link>
     </main>
   );
 }
