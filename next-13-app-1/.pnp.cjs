@@ -833,7 +833,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["autoprefixer", "virtual:f51f43afda377be429fddc0afd137ab93362fe3f85313a89d01b846d0338384a2a0e21f5fa824d94ba547bffc798289afac55a0cc8cb0e3720c8e0531eabe873#npm:10.4.14"],\
             ["@types/postcss", null],\
             ["browserslist", "npm:4.21.5"],\
-            ["caniuse-lite", "npm:1.0.30001486"],\
+            ["caniuse-lite", "npm:1.0.30001591"],\
             ["fraction.js", "npm:4.2.0"],\
             ["normalize-range", "npm:0.1.2"],\
             ["picocolors", "npm:1.0.0"],\
@@ -946,7 +946,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/browserslist-npm-4.21.5-e3b9e9d029-9755986b22.zip/node_modules/browserslist/",\
           "packageDependencies": [\
             ["browserslist", "npm:4.21.5"],\
-            ["caniuse-lite", "npm:1.0.30001486"],\
+            ["caniuse-lite", "npm:1.0.30001591"],\
             ["electron-to-chromium", "npm:1.4.392"],\
             ["node-releases", "npm:2.0.10"],\
             ["update-browserslist-db", "virtual:e3b9e9d029ed690d72cbb29196ba0a23f15b398eeb926347678187be937db870a04cbf984eecc8e0ec9c290158a9cd8607d12f0188665abe039fa4a9051a22ac#npm:1.0.11"]\
@@ -1031,10 +1031,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["caniuse-lite", [\
-        ["npm:1.0.30001486", {\
-          "packageLocation": "./.yarn/cache/caniuse-lite-npm-1.0.30001486-643365f22c-5e8c2ba267.zip/node_modules/caniuse-lite/",\
+        ["npm:1.0.30001591", {\
+          "packageLocation": "./.yarn/cache/caniuse-lite-npm-1.0.30001591-88044eed22-e48f924cde.zip/node_modules/caniuse-lite/",\
           "packageDependencies": [\
-            ["caniuse-lite", "npm:1.0.30001486"]\
+            ["caniuse-lite", "npm:1.0.30001591"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -3383,7 +3383,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/react-dom", "npm:18.2.4"],\
             ["@types/sass", null],\
             ["busboy", "npm:1.6.0"],\
-            ["caniuse-lite", "npm:1.0.30001486"],\
+            ["caniuse-lite", "npm:1.0.30001591"],\
             ["fibers", null],\
             ["node-sass", null],\
             ["postcss", "npm:8.4.14"],\
