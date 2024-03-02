@@ -2,5 +2,6 @@
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "dbaeumer.vscode-eslint",
   "editor.formatOnType": true,
-  "editor.formatOnPaste": true
+  "editor.formatOnPaste": true,
+  "css.lint.unknownAtRules": "ignore"
 }
