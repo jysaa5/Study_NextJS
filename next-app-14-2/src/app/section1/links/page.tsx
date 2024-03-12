@@ -7,7 +7,7 @@ const LinkPage: NextPage = async () => {
         <main>
             <h1>Links</h1>
             <div style={{height: '200vh'}}/>
-            <Link href="/section1/getStaticProps">/getStaticProps</Link>
+            <Link href="/section1/getStaticProps" style={{color: 'red'}}>/getStaticProps</Link>
         </main>
     )
 }
