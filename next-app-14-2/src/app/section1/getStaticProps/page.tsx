@@ -4,7 +4,7 @@ interface Props {
     data: number
 }
 
-const Example: NextPage = async () => {
+const GetStaticPropsPage: NextPage = async () => {
 
  async function getData() {
     const delayInSeconds = 2;
@@ -24,5 +24,5 @@ const Example: NextPage = async () => {
     )
 }
 
-export default Example;
+export default GetStaticPropsPage;
 
