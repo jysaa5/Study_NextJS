@@ -12,6 +12,7 @@ async function getData() {
 const GetServerSidePage: NextPage = async () => {
     const data = await getData();
     console.log(data);
+    
     return (
         <main>
             <h1>getStaticProps Page</h1>

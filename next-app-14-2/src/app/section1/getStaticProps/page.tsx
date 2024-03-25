@@ -1,21 +1,19 @@
 import { NextPage } from 'next';
 
-interface Props {
-    data: number
-}
-
-const GetStaticPropsPage: NextPage = async () => {
-
- async function getData() {
-    const delayInSeconds = 2;
-    const data: number = await new Promise((reslove) => setTimeout(() => reslove(Math.random()), delayInSeconds * 1000))
-
+async function getData() {
+    const res = await fetch(`https://jsonplaceholder.typicode.com/posts/1`, { cache: 'force-cache' });
+    const data = await res.json();
+    
     return {
         props: {data}
     }
-}
+ }
+
+const GetStaticPropsPage: NextPage = async () => {
+
     const data = await getData();
-    console.log(data)
+    console.log(data);
+
     return (
         <main>
             <h1>getStaticProps Page</h1>
