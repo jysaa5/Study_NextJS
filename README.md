@@ -22,6 +22,7 @@
 - [Next.js](https://nextjs.org/)
   - 12.0
   - 13.0
+  - 14.0
 - UI
   - [Ant Design](https://ant.design/docs/react/introduce)
   - [Chakra UI](https://chakra-ui.com/)
